@@ -8,6 +8,14 @@
   Python developer in progress, QA automation learner, and builder of practical tools with clean structure, tests, and visible behavior.
 </p>
 
+<p align="center">
+  <a href="https://github.com/teogame3d-alt/teogame3d-alt-portfolio">Technical Portfolio</a>
+  &nbsp;|&nbsp;
+  <a href="https://teogame3d-site.pages.dev/">3D Portfolio</a>
+  &nbsp;|&nbsp;
+  <a href="https://github.com/teogame3d-alt?tab=repositories">Repositories</a>
+</p>
+
 ---
 
 ## About Me
@@ -31,7 +39,7 @@ I like building systems where behavior can be inspected instead of guessed. If a
 
 ---
 
-## Featured Projects
+## Featured Engineering Projects
 
 | Project | What it shows |
 | --- | --- |
@@ -39,7 +47,8 @@ I like building systems where behavior can be inspected instead of guessed. If a
 | [Interactive Data Viz](https://github.com/teogame3d-alt/interactive-data-viz) | Reproducible data cleaning, validation reports, interactive charts, algorithm visualizers |
 | [PyQt6 Magic Shop](https://github.com/teogame3d-alt/pyqt6-magic-shop) | Desktop CRUD app with service/repository layers, SQLite persistence, and tested business rules |
 | [QA Automation API Suite](https://github.com/teogame3d-alt/qa-automation-api-suite) | API smoke tests, response contract checks, negative-path validation, GitHub Actions |
-| [Portfolio Index](https://github.com/teogame3d-alt/teogame3d-alt-portfolio) | Public map of my Python and QA-oriented projects |
+
+For a fuller technical review path, see the [Technical Portfolio Index](https://github.com/teogame3d-alt/teogame3d-alt-portfolio).
 
 ---
 
