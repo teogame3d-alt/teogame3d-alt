@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="myjobITAI.gif" width="760" alt="Welcome banner">
+  <img src="profile_banner.gif" width="1000" alt="Teo profile banner">
 </p>
 
 <h1 align="center">Hi, I'm Teo</h1>
