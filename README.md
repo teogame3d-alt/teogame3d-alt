@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Teo</h1>
 
 <p align="center">
-  Python developer in progress, QA automation learner, and builder of practical tools with clean structure, tests, and visible behavior.
+  Junior Python developer in training, focused on QA automation, deterministic tools, and AI-assisted engineering workflows.
 </p>
 
 <p align="center">
@@ -35,6 +35,7 @@ I like building systems where behavior can be inspected instead of guessed. If a
 - SQLite-backed desktop tools with PyQt6
 - Data cleaning, validation, and interactive visualization
 - Deterministic AI-style assistants and explainable text automation
+- PR workflows with feature branches, review feedback, regression tests, and CI-oriented validation
 - Frontend and portfolio presentation for technical work
 
 ---
@@ -46,9 +47,19 @@ I like building systems where behavior can be inspected instead of guessed. If a
 | [AI Agent Text RO](https://github.com/teogame3d-alt/ai-agent-text-ro) | Deterministic Romanian/English text automation, SQLite memory, PyQt6 UI, tests, CI |
 | [Interactive Data Viz](https://github.com/teogame3d-alt/interactive-data-viz) | Reproducible data cleaning, validation reports, interactive charts, algorithm visualizers |
 | [PyQt6 Magic Shop](https://github.com/teogame3d-alt/pyqt6-magic-shop) | Desktop CRUD app with service/repository layers, SQLite persistence, and tested business rules |
+| [Digital Library](https://github.com/teogame3d-alt/digital-library) | Compact OOP model with borrow/return state transitions, JSON persistence, and tests |
 | [QA Automation API Suite](https://github.com/teogame3d-alt/qa-automation-api-suite) | API smoke tests, response contract checks, negative-path validation, GitHub Actions |
 
 For a fuller technical review path, see the [Technical Portfolio Index](https://github.com/teogame3d-alt/teogame3d-alt-portfolio).
+
+---
+
+## Review Signals
+
+- Each project is intentionally scoped so the behavior can be inspected quickly.
+- READMEs focus on problem, solution, setup, tests, and design decisions.
+- Tests and CI are used where repeatable behavior matters.
+- AI-assisted work is treated as something to verify, document, and understand.
 
 ---
 
