@@ -63,6 +63,17 @@ For a fuller technical review path, see the [Technical Portfolio Index](https://
 
 ---
 
+## AI-Assisted Engineering Practice
+
+I use AI tools most effectively when the work has clear context, a small scope, and a repeatable review path.
+
+- I first try to understand the repo shape, contracts, and expected output.
+- I use AI to accelerate implementation, compare patterns, and surface risks.
+- I verify with deterministic checks: tests, formatting, schema validation, and focused review notes.
+- I treat review feedback as a way to improve the checklist, not just fix one PR.
+
+---
+
 ## Tech Stack
 
 <p>
