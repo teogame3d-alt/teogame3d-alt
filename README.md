@@ -37,6 +37,7 @@ My goal is to show how each application works, why the code is structured that w
 - Game QA / DevQA direction with Unreal Engine interest, Python scripting, C#/.NET concepts, and 3D portfolio context
 - PR workflows with feature branches, review feedback, regression tests, and CI-oriented validation
 - Frontend and portfolio presentation for technical work
+- TeoGame3D portfolio discipline: focused repositories, no duplicate demos, and no private machine artifacts in public code
 
 ---
 
@@ -117,6 +118,7 @@ The API suite screenshot is an evidence board, not a fake UI. It summarizes the 
 - Tests and CI are used where repeatable behavior matters.
 - Internship and Python Developer training are reflected through project structure, documentation, test strategy, and review-ready repositories.
 - Public repository hygiene matters: screenshots, logs, and docs should not expose `.env` files, local machine paths, API tokens, or private environment details.
+- Computer-vision or game-adjacent demos are published only as safe QA/model-evaluation work: no live input automation and no local/private artifacts.
 
 ---
 
