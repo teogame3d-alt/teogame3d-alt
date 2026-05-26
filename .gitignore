@@ -11,6 +11,8 @@ Thumbs.db
 venv/
 __pycache__/
 *.pyc
+.pytest_cache/
+.pytest_tmp/
 
 # Privacy guardrails / local-only files
 *.local

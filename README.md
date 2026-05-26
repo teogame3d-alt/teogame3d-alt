@@ -26,18 +26,26 @@ My goal is to show how each application works, why the code is structured that w
 
 ---
 
+## Fast Review Path
+
+For a quick technical review, I suggest this order:
+
+1. Open [Python Live QA Studio](https://github.com/teogame3d-alt/pylive-qa-studio) for the strongest tooling/debugging direction.
+2. Check [QA Automation API Suite](https://github.com/teogame3d-alt/qa-automation-api-suite) for pytest, API contracts, negative paths, and CI.
+3. Review one UI/data project: [PyQt6 Magic Shop](https://github.com/teogame3d-alt/pyqt6-magic-shop), [AI Agent Text RO](https://github.com/teogame3d-alt/ai-agent-text-ro), or [Interactive Data Viz](https://github.com/teogame3d-alt/interactive-data-viz).
+
+Each repository includes setup steps, tests, screenshots, and notes about design decisions or tradeoffs.
+
+---
+
 ## Current Focus
 
-- Python application structure with `src/`, `tests/`, docs, and CI
-- QA automation with `pytest`, API checks, and regression-safe workflows
-- SQLite-backed desktop tools with PyQt6
-- Data cleaning, validation, and interactive visualization
-- User-trainable AI Agent workflows with memory, policy rules, and explainable matching logic
-- Live code diagnostics, traceback explanation, and preview-oriented developer tools
-- Game QA / DevQA direction with Unreal Engine interest, Python scripting, C#/.NET concepts, and 3D portfolio context
-- PR workflows with feature branches, review feedback, regression tests, and CI-oriented validation
-- Frontend and portfolio presentation for technical work
-- TeoGame3D portfolio discipline: focused repositories, no duplicate demos, and no private machine artifacts in public code
+- Python tooling and QA validation with `pytest`, API checks, regression thinking, and CI.
+- Desktop applications with PyQt6, SQLite, service/repository layers, and testable business rules.
+- Data cleaning and visualization with pandas, validation reports, and reproducible outputs.
+- User-trainable AI Agent concepts where behavior stays visible through memory, rules, and tests.
+- Game QA / DevQA direction with Unreal Engine interest, Python scripting, C#/.NET concepts, and 3D portfolio context.
+- Public repository discipline: focused scope, screenshots, no private machine artifacts, and clear review paths.
 
 ---
 
@@ -53,6 +61,27 @@ My goal is to show how each application works, why the code is structured that w
 | [QA Automation API Suite](https://github.com/teogame3d-alt/qa-automation-api-suite) | API smoke tests, response contract checks, negative-path validation, GitHub Actions |
 
 For a fuller technical review path, see the [Technical Portfolio Index](https://github.com/teogame3d-alt/teogame3d-alt-portfolio).
+
+---
+
+## Proof of Work
+
+- Most Python repositories can be installed locally and checked with `python -m pytest`.
+- UI projects include screenshots from the actual app flow; CLI/API projects use evidence boards plus testable code.
+- Architecture and engineering notes explain why the project is scoped the way it is.
+- The projects are intentionally small enough to review, but structured like systems: package code, tests, docs, runtime data kept out of Git.
+- Known limits are documented instead of hidden; future work is separated from current features.
+
+---
+
+## Project Status Labels
+
+- `Working repository`: source code, setup steps, tests, CI or documented validation path.
+- `Local prototype`: experimental code used to test an idea before making larger claims.
+- `Visual showcase`: Blender renders, animations, branding studies and presentation assets.
+- `Learning baseline`: compact project used to demonstrate fundamentals such as OOP, persistence or CLI flow.
+
+I avoid presenting concept work as finished product work. When a project is experimental, the README should say so.
 
 ---
 
@@ -98,7 +127,7 @@ Live code diagnostics, concept prediction, privacy-safe traceback output, and a 
 
 ### QA Automation Evidence
 
-The API suite screenshot is an evidence board, not a fake UI. It summarizes the contract tests, negative-path checks, reusable client, and CI signal before a reviewer opens the code.
+The API suite screenshot is a technical evidence board. It summarizes the contract tests, negative-path checks, reusable client, and CI signal before a reviewer opens the code.
 
 <p>
   <a href="https://github.com/teogame3d-alt/qa-automation-api-suite">
