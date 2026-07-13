@@ -5,13 +5,15 @@
 <h1 align="center">Hi, I'm Teo</h1>
 
 <p align="center">
-  Python Developer graduate focused on QA automation, desktop tools, data validation, and readable Python systems.
+  Junior Python / QA automation candidate building reviewable tools, data workflows, desktop apps, and game-logic prototypes.
 </p>
 
 <p align="center">
   <a href="https://github.com/teogame3d-alt/teogame3d-alt-portfolio">Technical Portfolio</a>
   &nbsp;|&nbsp;
   <a href="https://teogame3d-site.pages.dev/">3D Portfolio</a>
+  &nbsp;|&nbsp;
+  <a href="https://github.com/teogame3d-alt/cosmic-evolution-canvas">Cosmic Evolution</a>
   &nbsp;|&nbsp;
   <a href="https://github.com/teogame3d-alt?tab=repositories">Repositories</a>
 </p>
@@ -24,6 +26,8 @@ I build small but reviewable Python projects: clear domain logic, tests, CI, SQL
 
 My goal is to show how each application works, why the code is structured that way, and how behavior can be verified instead of guessed.
 
+Current practical direction: become employable in junior Python / QA automation roles first, while building a longer-term game-development path through inspectable game logic, 3D portfolio work, and Unreal/C++ learning.
+
 ---
 
 ## Current Focus
@@ -34,6 +38,7 @@ My goal is to show how each application works, why the code is structured that w
 - Data cleaning, validation, and interactive visualization
 - User-trainable AI Agent workflows with memory, policy rules, and explainable matching logic
 - Live code diagnostics, traceback explanation, and preview-oriented developer tools
+- HTML5 Canvas game-loop practice with orbital gravity, collision states, mobile controls, and local scoring
 - Game QA / DevQA direction with Unreal Engine interest, Python scripting, C#/.NET concepts, and 3D portfolio context
 - PR workflows with feature branches, review feedback, regression tests, and CI-oriented validation
 - Frontend and portfolio presentation for technical work
@@ -46,11 +51,12 @@ My goal is to show how each application works, why the code is structured that w
 | Project | What it shows |
 | --- | --- |
 | [Python Live QA Studio](https://github.com/teogame3d-alt/pylive-qa-studio) | Live Python diagnostics, traceback explanations, concept prediction, QA-oriented developer feedback, tests, CI |
+| [QA Automation API Suite](https://github.com/teogame3d-alt/qa-automation-api-suite) | API smoke tests, response contract checks, negative-path validation, reusable pytest structure, GitHub Actions |
+| [Cosmic Evolution](https://github.com/teogame3d-alt/cosmic-evolution-canvas) | HTML5 Canvas gravity game with orbital capture, animated absorption states, damage, fragments, progression, mobile controls |
 | [AI Agent Text RO](https://github.com/teogame3d-alt/ai-agent-text-ro) | User-trainable RO/EN agent workflow, learned answers, SQLite memory, PyQt6 UI, tests, CI |
 | [Interactive Data Viz](https://github.com/teogame3d-alt/interactive-data-viz) | Reproducible data cleaning, validation reports, interactive charts, algorithm visualizers |
 | [PyQt6 Magic Shop](https://github.com/teogame3d-alt/pyqt6-magic-shop) | Desktop CRUD app with service/repository layers, SQLite persistence, and tested business rules |
 | [Digital Library](https://github.com/teogame3d-alt/digital-library) | Compact OOP model with borrow/return state transitions, JSON persistence, and tests |
-| [QA Automation API Suite](https://github.com/teogame3d-alt/qa-automation-api-suite) | API smoke tests, response contract checks, negative-path validation, GitHub Actions |
 
 For a fuller technical review path, see the [Technical Portfolio Index](https://github.com/teogame3d-alt/teogame3d-alt-portfolio).
 
@@ -124,9 +130,11 @@ The API suite screenshot is a technical evidence board. It summarizes the contra
 
 ## Flagship Direction
 
-My current flagship direction is [Python Live QA Studio](https://github.com/teogame3d-alt/pylive-qa-studio): a developer tool concept that analyzes Python code while it is being written, explains errors, suggests safer implementation patterns, and predicts whether the next useful preview is a table, chart, UI window, or style update.
+My current Python flagship direction is [Python Live QA Studio](https://github.com/teogame3d-alt/pylive-qa-studio): a developer tool concept that analyzes Python code while it is being written, explains errors, suggests safer implementation patterns, and predicts whether the next useful preview is a table, chart, UI window, or style update.
 
 The goal is not to replace professional IDEs. The goal is to show debugging, testing, visual feedback, and product thinking in one inspectable workflow.
+
+My current game-logic flagship is [Cosmic Evolution](https://github.com/teogame3d-alt/cosmic-evolution-canvas): an original Canvas prototype that shows state management, collision handling, animated absorption, procedural bodies, local scoring and mobile controls. It is a learning bridge toward future C++ / Unreal work, while keeping the present profile anchored in Python and QA.
 
 ---
 
@@ -159,9 +167,14 @@ The goal is not to replace professional IDEs. The goal is to show debugging, tes
 
 I am growing toward QA automation, Python tooling, practical desktop/data applications, and game QA/DevQA workflows.
 
+Short-term target: stable junior IT work in Python, QA automation, data validation or technical support automation.
+
+Long-term direction: game QA / DevQA and game-development systems, with C++ and Unreal Engine learning added gradually on top of the Python/QA foundation.
+
 ---
 
 ## Links
 
 - Portfolio: [teogame3d-site.pages.dev](https://teogame3d-site.pages.dev/)
+- Cosmic Evolution: [cosmic-evolution-canvas](https://github.com/teogame3d-alt/cosmic-evolution-canvas)
 - GitHub: [@teogame3d-alt](https://github.com/teogame3d-alt)
