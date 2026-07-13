@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Teo</h1>
 
 <p align="center">
-  Junior Python / QA automation candidate building reviewable tools, data workflows, desktop apps, and game-logic prototypes.
+  Junior Python / QA automation candidate building reviewable tools, data workflows, desktop apps, and an original browser-based gravity game prototype.
 </p>
 
 <p align="center">
@@ -30,6 +30,22 @@ Current practical direction: become employable in junior Python / QA automation 
 
 ---
 
+## Playable Game Prototype
+
+[Cosmic Evolution](https://github.com/teogame3d-alt/cosmic-evolution-canvas) is my public, playable HTML5 Canvas game prototype and the strongest programming bridge between my technical work and my long-term game-development direction.
+
+It demonstrates a complete browser-game loop rather than a static screenshot:
+
+- JavaScript game loop, Canvas rendering and responsive input handling
+- gravity fields, orbital capture, animated absorption and collision states
+- asteroid persistence tuning, damage logic, fragments, scoring and localStorage leaderboard
+- mobile controls, desktop controls, debug signals and a small C++ rules prototype for future native/WASM learning
+- visual presentation connected to my TeoGame&3D portfolio identity
+
+The repository is intentionally public so recruiters can inspect the implementation. The code is a portfolio learning project; the TeoGame&3D identity, personal presentation, 3D portfolio assets and authorship context remain associated with me and should not be reused to impersonate the portfolio.
+
+---
+
 ## Current Focus
 
 - Python application structure with `src/`, `tests/`, docs, and CI
@@ -38,7 +54,7 @@ Current practical direction: become employable in junior Python / QA automation 
 - Data cleaning, validation, and interactive visualization
 - User-trainable AI Agent workflows with memory, policy rules, and explainable matching logic
 - Live code diagnostics, traceback explanation, and preview-oriented developer tools
-- HTML5 Canvas game-loop practice with orbital gravity, collision states, mobile controls, and local scoring
+- HTML5 Canvas game-loop practice with orbital gravity, collision states, asteroid persistence tuning, mobile controls, local scoring, and live portfolio deployment
 - Game QA / DevQA direction with Unreal Engine interest, Python scripting, C#/.NET concepts, and 3D portfolio context
 - PR workflows with feature branches, review feedback, regression tests, and CI-oriented validation
 - Frontend and portfolio presentation for technical work
@@ -52,7 +68,7 @@ Current practical direction: become employable in junior Python / QA automation 
 | --- | --- |
 | [Python Live QA Studio](https://github.com/teogame3d-alt/pylive-qa-studio) | Live Python diagnostics, traceback explanations, concept prediction, QA-oriented developer feedback, tests, CI |
 | [QA Automation API Suite](https://github.com/teogame3d-alt/qa-automation-api-suite) | API smoke tests, response contract checks, negative-path validation, reusable pytest structure, GitHub Actions |
-| [Cosmic Evolution](https://github.com/teogame3d-alt/cosmic-evolution-canvas) | HTML5 Canvas gravity game with orbital capture, animated absorption states, damage, fragments, progression, mobile controls |
+| [Cosmic Evolution](https://github.com/teogame3d-alt/cosmic-evolution-canvas) | Playable HTML5 Canvas gravity game with orbital capture, animated absorption states, asteroid persistence tuning, damage, fragments, progression, mobile controls, local scoring |
 | [AI Agent Text RO](https://github.com/teogame3d-alt/ai-agent-text-ro) | User-trainable RO/EN agent workflow, learned answers, SQLite memory, PyQt6 UI, tests, CI |
 | [Interactive Data Viz](https://github.com/teogame3d-alt/interactive-data-viz) | Reproducible data cleaning, validation reports, interactive charts, algorithm visualizers |
 | [PyQt6 Magic Shop](https://github.com/teogame3d-alt/pyqt6-magic-shop) | Desktop CRUD app with service/repository layers, SQLite persistence, and tested business rules |
@@ -134,7 +150,7 @@ My current Python flagship direction is [Python Live QA Studio](https://github.c
 
 The goal is not to replace professional IDEs. The goal is to show debugging, testing, visual feedback, and product thinking in one inspectable workflow.
 
-My current game-logic flagship is [Cosmic Evolution](https://github.com/teogame3d-alt/cosmic-evolution-canvas): an original Canvas prototype that shows state management, collision handling, animated absorption, procedural bodies, local scoring and mobile controls. It is a learning bridge toward future C++ / Unreal work, while keeping the present profile anchored in Python and QA.
+My current game-logic flagship is [Cosmic Evolution](https://github.com/teogame3d-alt/cosmic-evolution-canvas): an original Canvas prototype that shows state management, collision handling, gravity tuning, animated absorption, procedural bodies, local scoring and mobile controls. It is a learning bridge toward future C++ / Unreal work, while keeping the present profile anchored in Python and QA.
 
 ---
 
