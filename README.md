@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Teo</h1>
 
 <p align="center">
-  Junior Python / QA Automation developer in training, building tested tools, AI-assisted workflows, desktop apps, data validation projects, and game-inspired interactive prototypes.
+  Python / QA Automation developer building tested tools, data validation projects, desktop apps, and game-inspired interactive prototypes.
   <br>
   My portfolio connects practical engineering discipline with Blender 3D, visual polish, and long-term game-development ambition.
 </p>
@@ -24,11 +24,11 @@
 
 ## Profile
 
-I am a junior IT candidate with a practical focus on Python, QA automation, data validation, AI-assisted workflows, and small applications that can be reviewed end to end.
+I am a junior IT developer with a practical focus on Python, QA automation, data validation, agentic workflows, and small applications that can be reviewed end to end.
 
 My strongest direction for employment is Python / QA Automation / Junior Software Development. Around that core, I also build visual and game-inspired projects through Blender 3D, HTML5 Canvas, PyQt6, and C#/.NET prototypes. This gives my portfolio a more distinctive profile: structured technical work, visible testing habits, and a creative sense for interactive presentation.
 
-I care about projects that are clear enough for a recruiter to understand, but technical enough for an engineer to inspect: setup, tests, behavior, edge cases, documentation, screenshots, and public repository hygiene.
+I care about projects that are clear enough to understand quickly and technical enough to inspect: setup, tests, behaviour, edge cases, documentation, screenshots, and public repository hygiene.
 
 ---
 
@@ -36,7 +36,7 @@ I care about projects that are clear enough for a recruiter to understand, but t
 
 - Python application structure with `src/`, tests, documentation, and CI where useful
 - QA automation with `pytest`, API validation, negative-path checks, and regression-safe workflows
-- AI and LLM workflow practice through prompt evaluation, structured outputs, schema validation, and testing habits
+- Agentic and LLM application practice through structured outputs, schema validation, tool boundaries, and testing habits
 - SQLite-backed desktop tools with PyQt6 and layered application logic
 - Data cleaning, validation reports, and interactive visualizations
 - HTML5 Canvas game-loop work with gravity, collision states, progression, scoring, and mobile controls
@@ -45,11 +45,17 @@ I care about projects that are clear enough for a recruiter to understand, but t
 
 ---
 
-## Internship And Training Signal
+## Training and experience
 
 I completed a Python Developer diploma issued by SkillBrain and continue Python + AI Engineer training toward a separate accreditation path.
 
-In internship practice, I contributed to Python and AI-oriented workflows around educational content generation, LLM prompts, structured validation, testing, and collaborative Git/GitHub development. I keep public descriptions high-level and professional, while using the learning in my own portfolio projects through cleaner tests, better documentation, and more reviewable repository structure.
+I have contributed to Python and AI-oriented workflows around educational content generation, structured validation, testing, and collaborative Git/GitHub development. I apply that experience through cleaner tests, stronger documentation, and repository structures that are easy to review.
+
+## Latest update
+
+The portfolio now includes [Agentic QA Triage](https://github.com/teogame3d-alt/agentic-qa-triage), a
+Python application with an OpenAI Agents SDK boundary, PostgreSQL/SQLite persistence, human approval,
+usage tracking, and CI. See [the profile changelog](CHANGELOG.md).
 
 ---
 
@@ -73,7 +79,7 @@ For a fuller technical review path, see the [Technical Portfolio Index](https://
 
 I am also developing **Cosmic Cursor Desktop**, a Windows visual cursor effect built with a C# / WPF transparent overlay engine and a PyQt6 control panel. It is a desktop UI/UX and performance-tuning prototype that explores process control, settings profiles, transparent overlay rendering, particle trails, and clean release packaging.
 
-This project is useful as a secondary portfolio signal because it connects desktop software structure with visual polish. If made public, it should be presented as a prototype release, not as a signed commercial Windows product.
+This project connects desktop software structure with visual polish and is presented as a local Windows prototype release.
 
 ---
 
@@ -90,7 +96,7 @@ It demonstrates more than a static demo:
 - localStorage scoring and reviewable gameplay rules
 - a visual direction connected to my TeoGame&3D identity
 
-The goal is not to claim senior game-engine experience. The goal is to show that I can build, test, tune, document, and improve an interactive system from idea to playable portfolio artifact.
+The goal is to show that I can build, test, tune, document, and improve an interactive system from idea to playable software.
 
 ---
 
