@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Teo</h1>
 
 <p align="center">
-  Python / QA Automation developer building tested tools, data validation projects, desktop apps, and game-inspired interactive prototypes.
+  Python developer focused on QA automation, agentic systems, data validation, APIs, desktop tools, and testable applications.
   <br>
   My portfolio connects practical engineering discipline with Blender 3D, visual polish, and long-term game-development ambition.
 </p>
@@ -24,9 +24,9 @@
 
 ## Profile
 
-I am a junior IT developer with a practical focus on Python, QA automation, data validation, agentic workflows, and small applications that can be reviewed end to end.
+I am a Python developer with a practical focus on QA automation, API testing, data validation, agentic workflows, and small applications that can be reviewed end to end.
 
-My strongest direction for employment is Python / QA Automation / Junior Software Development. Around that core, I also build visual and game-inspired projects through Blender 3D, HTML5 Canvas, PyQt6, and C#/.NET prototypes. This gives my portfolio a more distinctive profile: structured technical work, visible testing habits, and a creative sense for interactive presentation.
+My strongest direction is Python development, QA automation, and junior software development. Around that core, I maintain a separate visual track through Blender 3D, HTML5 Canvas, PyQt6, and C#/.NET prototypes. This gives my portfolio a technical center with a creative secondary layer.
 
 I care about projects that are clear enough to understand quickly and technical enough to inspect: setup, tests, behaviour, edge cases, documentation, screenshots, and public repository hygiene.
 
@@ -63,7 +63,7 @@ usage tracking, and CI. See [the profile changelog](CHANGELOG.md).
 
 | Project | What it demonstrates |
 | --- | --- |
-| [Cosmic Evolution](https://github.com/teogame3d-alt/cosmic-evolution-canvas) | Original HTML5 Canvas gravity game prototype with orbital capture, absorption, collision logic, fragments, progression, mobile controls, local scoring, and portfolio deployment |
+| [Agentic QA Triage](https://github.com/teogame3d-alt/agentic-qa-triage) | Python application with structured agent output, approval workflow, PostgreSQL/SQLite persistence, usage tracking, and CI |
 | [Python Live QA Studio](https://github.com/teogame3d-alt/pylive-qa-studio) | Live Python diagnostics, traceback explanation, QA-oriented developer feedback, concept prediction, tests, and CI |
 | [QA Automation API Suite](https://github.com/teogame3d-alt/qa-automation-api-suite) | API smoke tests, response contract checks, negative-path validation, reusable pytest structure, and GitHub Actions |
 | [AI Agent Text RO](https://github.com/teogame3d-alt/ai-agent-text-ro) | User-trainable RO/EN text agent workflow with learned answers, SQLite memory, PyQt6 UI, tests, and CI |
@@ -75,7 +75,7 @@ For a fuller technical review path, see the [Technical Portfolio Index](https://
 
 ---
 
-## Recent Visual / Desktop Prototype
+## Secondary Visual / Desktop Track
 
 I am also developing **Cosmic Cursor Desktop**, a Windows visual cursor effect built with a C# / WPF transparent overlay engine and a PyQt6 control panel. It is a desktop UI/UX and performance-tuning prototype that explores process control, settings profiles, transparent overlay rendering, particle trails, and clean release packaging.
 
